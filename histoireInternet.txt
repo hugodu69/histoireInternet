@@ -1,0 +1,83 @@
+l'histoire d'internet commence par l'histoire des ordinateurs. Et l'histoire des ordinateurs commence par l'histoire de l'humanite. Et l'histoire de l'humanite commence par celle des animaux. Les bacteries. Le bigbounce. C'est pas moi qui le dit c'est la theorie quantique a boucle.
+
+Je saute du coup quelques etapes parce que je veux dormir, et on va dire en gros qu'apres les recettes de cuisines et les bouliers, deux exemple classiques d'algorithmes connus depuis la nuit des temps, les humains et les humaines inventerent un jour les ordinateurs, et les langages des ordinateurs, puis internet, puis google home.
+
+C'est partiiiii !
+
+
+
+LES MACHINES A CALCULER
+
+1642 Blaise Pascal a 19 ans fabrique la premiere machine a calculer, la pascaline, qui fait les additions et les soustractions. Leibniz ajoute les multiplication 50 ans plus tard, sur la multiplicatrice.
+
+1750 Vaucanson fabrique des automates fonctionnants a base de bandes perforees qui atteignent un but en le decomposant en une succession d'etapes formelles.
+
+1821 Baddage invente la machine a difference, aussi appelee machine baddage, qui a pour but de calculer des polynomes sans faire d'erreur et d'eviter ainsi beaucoup d'accidents de navigations resultants de calculs faux. La machine possede une architecture proche de celle des ordinateurs d'aujourd'hui, avec des peripheriques d'entree, une unite centrale, et des peropheriques de sortie.
+
+1843 Ada Lovelace travaille avec baddage pour la construction de sa machine et propose le premier algorithme destine a etre execute par une machine, la machine baddage. Elle parle deja demachines universelles capables de faire d'autres choses que resoudre de calculs, comme ecrire de la musique ou automatiser des taches repetitives.
+
+1854 George Boole, mathematicien, met au point l'algebre binaire, qui est le fondement du langage binaire et des operations booleennes.
+
+1885 Hermann Hollerith invente une machine a calculer qui peut imprimer ses resultats et qui fonctionne electriquement et non pas mecaniquement. Elle est utilise pour le recensement de la population des etats-unis, qui ne prend ducoup que 6 mois et fait economiser 5 millions de dollars. Il fonde la Computing Tabulating Machine Corporation qui devient IBM, i pour international, en 1924.
+
+
+
+LES ORDINATEURS PROGRAMMABLES
+
+1938 Alan Turing publie sa these dans laquelle il decrit le fonctionnement de la machine de turing, qui consiste a montrer que pour n'importe quel calcul il existe une machine qui peut effectuer la bonne succession d'action pour le resoudre, puis de la machine de turing universelle, une machine qui peut simuler n'importe quelle machine de turing grace a un langage de programmation.
+
+1938 Konrad Zuse construit une machine a calculer qui fonctionne sur le langage binaire et est programmable comme l'avait imaginee Ada Lovelace, le Z3, qui fait 17m de long et calcul 5 fois plus vite qu'un humain.
+
+1944 Howard Aiken, ingenieur chez IBM, construit avec l'universite de Harvard le premier ordinateur qui pouvait stocker des programmes, le Mark 1, en s'appuyant sur les travaux du mathematicien John von Neumann mais en proposant une architecture differente, en theorie plus rapide mais en pratique trop complexe et donc peut performante, il fait 16m de long et peut faire trois additions par secondes mais parfois presqu'une minute pour une division ou un logarithme.
+
+1946 John von Neumann invente le premier ordinateur qui soit entierement une machine de turing electronique, l'ENIAC!, il ne presente pas de pieces mecaniques, il peut faire environ 330 additions par secondes, et occupe une surface de 72m2. Il se programme manuellement en binaire avec des commutateurs et des cables a enficher.
+
+1947 lors d'un test du Mark 2, un insecte, bug en anglais, fait griller un circuit, provoquant le premier cas de bug dans l'histoire et l'invention de cette expression
+
+
+
+LES LANGAGES DE PROGRAMMATIONS
+
+1950 Maurice Wilkes developpe le langage assembleur, qui permet de ne plus coder directement en binaire.
+
+
+
+LES ORDINATEURS CIVILS
+
+1951 Eckert et Mauchly mettent au point l'UNIVAC, le premier ordinateur commercial, qu'on voit la bd Tintin Objectif Lune de herge.
+
+1955 Grace Hopper developpe le langage FlowMatic, qui devint le COBOL en 1959.
+
+
+
+LE DEBUT D'INTERNET PAR LES COURRIERS ELECTRONIQUES
+
+1958 la firm Bell créer le premier modem pour echanger des donnees par le biais des lignes telephoniques.
+
+1961 le MIT et d'autres universites utilisent CTSS pour echanger des informations a distance et Leonard Kleinrock du MIT publie une theorie sur l'utilisation de la commutation par paquets pour transferer des donnees.
+
+1962 l'agence DARPA de la defense americaine debute des recherches menees par Licklider sur un reseau global d'ordinateurs.
+
+1962 Mauchly construit le premier ordinateur portable qui tient dans une malette.
+
+1962 IBM utilise le nouveau satellite de telecommunication TELSTAR 1 fabrique par un consortium AT&T, les Bells Labs, la NASA, la Poste Anglaise et les PTT franais. Le satellite arreta de fonctionner au bout de 7 mois.
+
+1965 Gordon Moore ennonce la loi de moore, qui predit une evolution exponentielle des capacite de ordinateurs et qui est toujours vraie aujourd'hui.
+
+1966 la DARPA lance le projet ARPANET, en collaboration avec 4 universités, qui essaye de creer une reseau d'ordinateurs.
+
+1968 Douglas Engelbart invente la souris.
+
+1971 Ray Tomlisson envoi le premier email, 23 ordinateurs sont relies a l'ARPANET
+
+
+
+LES MICRO-ORDINATEURS
+
+1971 John Blankenbaker fabrique et commercialise le premier micro ordinateur.
+
+1973 Martin cooper met au point le premier telephone portable, il fait 1,2 kg et a 20 minutes d'autonomies en communication.
+
+
+
+TO BE CONTINUED (WINNIE OBLIGATIONS)
