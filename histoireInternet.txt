@@ -38,13 +38,15 @@ LES ORDINATEURS PROGRAMMABLES
 
 LES LANGAGES DE PROGRAMMATIONS
 
-1950 Maurice Wilkes developpe le langage assembleur, qui permet de ne plus coder directement en binaire.
+1950 Maurice Wilkes developpe le langage assembleur, qui permet de ne plus coder directement en binaire. Il est utilisé comme une moyen mnémotechnique pour ecrire les programmes a la main plus facilement qu'en manipulant une suite de 0 et de 1, puis il est traduit a la main en langage binaire, il n'y a pas encore de programme assembleur. Il est utilisé sur l'EDSAC, fabriqué par Maurice Wilkes, et le premier ordinateur totalement a architeccture de Von Neumann, et le premier calculateur a programmes enregistrés.
 
 
 
 LES ORDINATEURS CIVILS
 
-1951 Eckert et Mauchly mettent au point l'UNIVAC, le premier ordinateur commercial, qu'on voit la bd Tintin Objectif Lune de herge.
+1951 Eckert et Mauchly mettent au point l'UNIVAC, le premier ordinateur commercial, qu'on voit la bd Tintin Objectif Lune de Herge.
+
+1954 Nathaniel Rochester développe le premier programme assembleur pour automatiser la tache de traduire du langage assembleur en langage binaire, pour le premier IBM commercial, le IBM 701.
 
 1955 Grace Hopper developpe le langage FlowMatic, qui devint le COBOL en 1959.
 
@@ -60,7 +62,7 @@ LE DEBUT D'INTERNET PAR LES COURRIERS ELECTRONIQUES
 
 1962 Mauchly construit le premier ordinateur portable qui tient dans une malette.
 
-1962 IBM utilise le nouveau satellite de telecommunication TELSTAR 1 fabrique par un consortium AT&T, les Bells Labs, la NASA, la Poste Anglaise et les PTT franais. Le satellite arreta de fonctionner au bout de 7 mois.
+1962 IBM utilise le nouveau satellite de telecommunication TELSTAR 1 fabrique par un consortium AT&T, les Bells Labs, la NASA, la Poste Anglaise et les PTT franais. Le satellite arreta de fonctionner au bout de 7 mois. Il est muet aujourd'hui mais on peut encore suivre sa trajectoire sur le site http://www.n2yo.com/satellite/?s=340.
 
 1965 Gordon Moore ennonce la loi de moore, qui predit une evolution exponentielle des capacite de ordinateurs et qui est toujours vraie aujourd'hui.
 
@@ -74,10 +76,7 @@ LE DEBUT D'INTERNET PAR LES COURRIERS ELECTRONIQUES
 
 LES MICRO-ORDINATEURS
 
-1971 John Blankenbaker fabrique et commercialise le premier micro ordinateur.
+1971 John Blankenbaker fabrique et commercialise le premier micro ordinateur, le kenbak-1, qui fonctionne sans micro-processeur.
 
-1973 Martin cooper met au point le premier telephone portable, il fait 1,2 kg et a 20 minutes d'autonomies en communication.
+1973 Martin Cooper met au point le premier telephone portable, il fait 1,2 kg et a 20 minutes d'autonomies en communication.
 
-
-
-TO BE CONTINUED (WINNIE OBLIGATIONS)
